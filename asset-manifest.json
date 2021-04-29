@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/waterflow/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/waterflow/static/js/main.cce93118.chunk.js",
+    "main.js.map": "/waterflow/static/js/main.cce93118.chunk.js.map",
+    "runtime-main.js": "/waterflow/static/js/runtime-main.f9f44bcf.js",
+    "runtime-main.js.map": "/waterflow/static/js/runtime-main.f9f44bcf.js.map",
+    "static/js/2.feb201de.chunk.js": "/waterflow/static/js/2.feb201de.chunk.js",
+    "static/js/2.feb201de.chunk.js.map": "/waterflow/static/js/2.feb201de.chunk.js.map",
+    "static/js/3.fbfc3a81.chunk.js": "/waterflow/static/js/3.fbfc3a81.chunk.js",
+    "static/js/3.fbfc3a81.chunk.js.map": "/waterflow/static/js/3.fbfc3a81.chunk.js.map",
+    "index.html": "/waterflow/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/waterflow/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.feb201de.chunk.js.LICENSE.txt": "/waterflow/static/js/2.feb201de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/waterflow/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9f44bcf.js",
+    "static/js/2.feb201de.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.cce93118.chunk.js"
+  ]
+}
